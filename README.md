@@ -4,7 +4,7 @@
 
 Naam : Netflix
 
-URL : [Netflix](https://www.netflix.com/be/)
+URL : [Netflix.com](https://www.netflix.com/be/)
 
 **Wordt het regelmatig bijgewerkt?**
 
