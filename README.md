@@ -1,6 +1,6 @@
 # Een website die verbeteringen verdient!
 
-![Symbol of Netflix](https://images-eu.ssl-images-amazon.com/images/I/51LGj5--KsL.png =100px)
+<img src="https://images-eu.ssl-images-amazon.com/images/I/51LGj5--KsL.png" alt="drawing" width="200"/>
 
 **Welke website heeft u gevonden? (naam, url, link).**
 
