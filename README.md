@@ -4,7 +4,7 @@
 
 Naam : Netflix
 
-URL : www.Netflix.be
+URL : Netflix.com
 
 [Link : Netflix](https://www.netflix.com/be/)
 
