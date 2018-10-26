@@ -35,3 +35,10 @@ Ja, Netflix heeft bv :
 * Geef de optie om Netflix te verbinden met andere internet-diensten zoals rotten-tomatoes of IMBD zodat ze meer informatie kunnen krijgen over series.
 * Zorg ervoor dat Trailers niet automatisch afspelen.
 * Zorg ervoor dat alle diensten inbegrepen zijn tegen een redelijke prijs. (of nog beter, helemaal gratis!)
+* makkelijker series en films verwijderen uit "gezien".
+* Optie om zelf categoriën te kiezen.
+
+**Groepsleden**
+
+* Sam Corstjens
+* Mark Salaets
