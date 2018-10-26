@@ -20,7 +20,7 @@ Ik heb deze website eens gevonden toen ik op zoek was naar een goede serie om te
 
 Er zijn bepaalde dingen aan de website die toch nogal storend zijn. Deze zijn :
 * De trailers van series spelen automatisch als je er met de muis overgaat.
-* De summeries van series geven soms flinken spoilers weg of zijn niet gedetailleerd genoeg.
+* De samenvattingen van series geven soms flinken spoilers weg of zijn niet gedetailleerd genoeg.
 * Netflix kan heel duur worden sinds zowat al de diensten geld kosten. Dit is niet alleen het basis-bedrag maar ook de extra-diensten kosten geld.
 
 **Is deze website aanwezig op sociale netwerken?**
