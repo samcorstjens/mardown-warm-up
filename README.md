@@ -4,7 +4,7 @@
 
 Naam : Netflix
 
-URL : www.Netflix.com/be
+URL : www.Netflix.be
 
 [Link : Netflix](https://www.netflix.com/be/)
 
@@ -23,14 +23,14 @@ Er zijn bepaalde dingen aan de website die toch nogal storend zijn. Deze zijn :
 * De summeries van series geven soms flinken spoilers weg of zijn niet gedetailleerd genoeg.
 * Netflix kan heel duur worden sinds zowat al de diensten geld kosten. Dit is niet alleen het basis-bedrag maar ook de extra-diensten kosten geld.
 
-**Is deze website aanwezig op sociale netwerken?
+**Is deze website aanwezig op sociale netwerken?**
 
 Ja, Netflix heeft bv :
 * Een Facebook-pagina
 * Een Twitter-pagina
 * Een Instagram
 
-**Maak een lijst met aanbevelingen van toekomstige wijzigingen.
+**Maak een lijst met aanbevelingen van toekomstige wijzigingen.**
 
 * Geef de optie om Netflix te verbinden met andere internet-diensten zoals rotten-tomatoes of IMBD zodat ze meer informatie kunnen krijgen over series.
 * Zorg ervoor dat Trailers niet automatisch afspelen.
