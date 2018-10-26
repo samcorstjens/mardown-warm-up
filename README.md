@@ -1,5 +1,7 @@
 # Een website die verbeteringen verdient!
 
+![Symbol of Netflix](https://images-eu.ssl-images-amazon.com/images/I/51LGj5--KsL.png)
+
 **Welke website heeft u gevonden? (naam, url, link).**
 
 Naam : Netflix
