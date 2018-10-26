@@ -3,7 +3,9 @@
 **Welke website heeft u gevonden? (naam, url, link).**
 
 Naam : Netflix
-URL : https://www.netflix.com/be/
+
+URL : www.Netflix.com/be
+
 [Link : Netflix](https://www.netflix.com/be/)
 
 **Wordt het regelmatig bijgewerkt?**
